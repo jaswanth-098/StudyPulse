@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+studypulse.db
+studypulse.log
+.env
